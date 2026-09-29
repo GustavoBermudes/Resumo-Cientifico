@@ -23,7 +23,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 &#x20;          `Daniel Gonçalves Araújo`
 
-&#x20;      `Jose Gustavo Rodrigues Simoncine
+&#x20;      `Jose Gustavo Rodrigues Simoncine`
 
 Data de início: `22/09/2026`
 
