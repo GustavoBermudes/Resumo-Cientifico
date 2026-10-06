@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`O uso da IA e quando realmente deve ser utilizada?`
+`Em quais situações o uso da Inteligência Artificial é realmente necessário?`
 
 ## Pergunta de pesquisa
 
